@@ -1,0 +1,31 @@
+<!-- wp:paragraph -->
+<p>Hi, here is a collection of my demos. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Finnish expression practice</strong><br>Demo: <a href="http://codinginthecold.byethost5.com/demos/finnish-practice/">http://codinginthecold.byethost5.com/demos/finnish-practice/</a><br>Github: <a href="https://github.com/enfrte/finnish-expression-practice">https://github.com/enfrte/finnish-expression-practice</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Bible language learning tool <br></strong>Demo: <a href="http://codinginthecold.byethost5.com/demos/bllt/">http://codinginthecold.byethost5.com/demos/bllt/</a><br>Github: <a href="https://github.com/enfrte/bible-language-learning-tool">https://github.com/enfrte/bible-language-learning-tool</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Web poll</strong><br>Demo: <a href="http://codinginthecold.byethost5.com/demos/web-poll/ ">http://codinginthecold.byethost5.com/demos/web-poll/ </a><br>Github: <a href="https://github.com/enfrte/web-poll">https://github.com/enfrte/web-poll</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Sh*ts on Fire, yo meme generator </strong><br><a href="http://codinginthecold.byethost5.com/test/gd/">http://codinginthecold.byethost5.com/test/gd/</a><br><a href="https://github.com/enfrte/fire-meme-generator">https://github.com/enfrte/fire-meme-generator</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Finnish listening practice</strong><br>Demo: <a href="http://codinginthecold.byethost5.com/demos/spelling-test/">http://codinginthecold.byethost5.com/demos/spelling-test/</a><br>Github: <a href="https://github.com/enfrte/spelling-test">https://github.com/enfrte/spelling-test</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Availability calendar</strong><br>Video demo: <a href="https://youtu.be/Dy4SnFRVhXQ">https://youtu.be/Dy4SnFRVhXQ</a><br>Github: <a href="https://github.com/enfrte/availability-calendar">https://github.com/enfrte/availability-calendar</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>WordPress theme</strong><br>Github: <a href="https://github.com/enfrte/w3css-enfrte-blog">https://github.com/enfrte/w3css-enfrte-blog</a><br>Demo: You're here! </p>
+<!-- /wp:paragraph -->
